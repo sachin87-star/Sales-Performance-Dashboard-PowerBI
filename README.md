@@ -1,3 +1,4 @@
+<img width="1187" height="661" alt="Screenshot 2026-05-02 072451" src="https://github.com/user-attachments/assets/e4256dda-8d6f-43e1-a0aa-d614bab8feff" />
 # Sales Analytics Dashboard with Target vs Achievement (Power BI)
 # 📊 Retail Sales Performance Dashboard (Power BI)
 
@@ -66,7 +67,7 @@ The dashboard helps track sales performance, monitor targets, and identify key a
 ---
 
 ## 📸 Dashboard Preview
-https://raw.githubusercontent.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/Screenshot%202026-05-02%20072451.png
+
 
 ---
 
