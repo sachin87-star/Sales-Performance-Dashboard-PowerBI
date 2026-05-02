@@ -73,8 +73,9 @@ https://github.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/S
 ## 📁 Files Included
 
 * Retail-Sales-https://github.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/dashboard.pbix
-* Dataset (if included)
+* Dataset (https://github.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/Retail_Inventory_Dataset-1.xlsx)
 * Dashboard screenshot
+https://github.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/Screenshot%202026-05-02%20072451.png
 
 ---
 
