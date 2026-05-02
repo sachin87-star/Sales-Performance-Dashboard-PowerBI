@@ -66,7 +66,7 @@ The dashboard helps track sales performance, monitor targets, and identify key a
 ---
 
 ## 📸 Dashboard Preview
-Screenshot 2026-05-02 072451.png
+https://github.com/sachin87-star/Sales-Performance-Dashboard-PowerBI/blob/main/Screenshot%202026-05-02%20072451.png
 
 ---
 
