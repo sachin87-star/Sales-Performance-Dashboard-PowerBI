@@ -66,8 +66,7 @@ The dashboard helps track sales performance, monitor targets, and identify key a
 ---
 
 ## 📸 Dashboard Preview
-
-(Add your screenshot here)
+Screenshot 2026-05-02 072451.png
 
 ---
 
